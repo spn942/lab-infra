@@ -6,6 +6,8 @@
 - Je sélectionne **Add Roles and Features**.
 - J'installe le rôle **AD DS (Active Directory Domain Services)**.
 
+![Confirmation des rôles et fonctionnalités à installer sur DC01](images/installation-roles-dc01.webp)
+
 ## Configuration d'Active Directory
 
 - Je sélectionne **Promote this server to a domain controller**.

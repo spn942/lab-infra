@@ -15,8 +15,11 @@
 - Je renomme le serveur **DC01**.
 - Je configure son adresse IP statique : **10.0.1.10/24**, avec la passerelle **10.0.1.1** et le DNS **10.0.1.10**.
 
+![Configuration IPv4 statique de DC01](images/adresse-ip-dc01.webp)
 
+- Installation des rôles AD DS et DNS, puis promotion de DC01 en contrôleur de domaine.
 
+![Installation des rôles AD DS et DNS sur DC01](images/installation-roles-dc01.webp)
 
 
 

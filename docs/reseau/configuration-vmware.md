@@ -49,8 +49,10 @@ La machine virtuelle pfSense possède plusieurs interfaces réseau :
 
 ### Configuration des réseaux virtuels
 
-![Configuration des VMnet](images/vmware-vmnets.png)
+![Configuration des VMnet](images/vmware/configuration-vmware-sous-reseaux-vmnet.png)
 
 ### Interfaces réseau de pfSense
 
-![Interfaces VMware de pfSense](images/pfsense-network-adapters.png)
+![Interfaces VMware de pfSense](images/pfsense/pfsense-network-adapters.png)
+
+La suite se trouve dans [Installation et configuration de pfSense](configuration-pfsense.md).

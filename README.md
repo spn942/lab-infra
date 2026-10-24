@@ -22,5 +22,27 @@ Enfin, bien plus tard, je souhaiterais découvrir et comprendre le DevOps, ou es
 
 ## Documentation
 
-- [Feuille de route](docs/feuille-de-route.md)
-- [Documentation technique](docs/)
+- [Feuille de route](docs/feuille-de-route/route.md)
+
+### Réseau
+
+- [Plan d'adressage](docs/reseau/plan-adressage.md)
+- [Raisonnement du plan d'adressage](docs/reseau/raisonnement-plan-adressage.md)
+- [Configuration réseau VMware](docs/reseau/configuration-vmware.md)
+- [Installation et configuration de pfSense](docs/reseau/configuration-pfsense.md)
+
+### Windows Server et Active Directory
+
+- [Installation et configuration de DC01](docs/windows/installation-dc01.md)
+- [Installation d'AD DS et promotion en contrôleur de domaine](docs/windows/installation-active-directory.md)
+- [Jonction d'un client au domaine](docs/windows/joindre-le-domaine.md)
+- [Commandes PowerShell utiles](docs/windows/commandes-powershell-utiles.md)
+- [Prise de notes Active Directory](docs/windows/prise-de-notes-active-directory.md)
+
+### Problèmes rencontrés
+
+- [Diagnostic et résolution du problème de ping depuis DC01](docs/problemes-rencontres/ping-dc.md)
+
+### Révisions
+
+- [AZ-802 : déployer et gérer AD DS](docs/revisions/az-802/01-deploiement-et-gestion-ad-ds.md)
